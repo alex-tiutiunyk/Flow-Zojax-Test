@@ -1,0 +1,14 @@
+Private Key              
+b394334a2b6e2b452dfd6bee59e59a71067d2b987638f13d013c919012ba288d
+
+Public Key               
+f3c59745b9b007cfd5231d27c198f8da4a65addc2b2674d1bff4ad5d2df0ec62a80ad34f6afdd21fa9316b3698731edd20abc45cff201baa238bb2b661d35f53
+
+flow Address
+0x3e5151cbeb6b0d0f
+
+Flow Account
+https://flow-view-source.com/testnet/account/0x3e5151cbeb6b0d0f
+
+
+https://betterprogramming.pub/how-to-build-an-nft-minting-dapp-on-the-flow-blockchain-d331a2404cae
